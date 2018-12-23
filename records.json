@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "date": {
+      "createdAt": "Sun Dec 23 2018 13:50:12 GMT+0530 (IST)",
+      "updatedAt": "Sun Dec 23 2018 13:50:12 GMT+0530 (IST)"
+    },
+    "newRecord": {
+      "empName": "vinayak k",
+      "empMob": "9892551217",
+      "empLocation": "pune"
+    }
+  }
+]

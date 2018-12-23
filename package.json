@@ -1,0 +1,10 @@
+{
+  "name": "crud-rest-apis-nodejs-without-express-with-filesystem",
+  "version": "1.0.0",
+  "description": "CRUD apis in nodejs without express with filesystem",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinayak Kedari"
+}
